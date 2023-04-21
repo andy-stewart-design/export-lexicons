@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.figma-dark {
+  @apply bg-figma-gray-700 text-white;
+}
